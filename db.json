@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "email": "hanhktph45903@gmail.com",
+      "password": "$2a$10$86cIZSxxSZtmh3NffXcqH.meTRQcJqlaUiRSnQH/si4chxrAFitdO",
+      "id": 1
+    },
+    {
+      "email": "hanhkt45903@gmail.com",
+      "password": "$2a$10$2qHJui7exfuGr8FreAHJz.Nmtk2NCOkv//ndLodCfbBAJK7pffOtG",
+      "id": 2
+    }
+  ]
+}
